@@ -1,5 +1,2 @@
-[{"id":1,"first_name":"Konrad","last_name":"Coulter","email":"kcoulter0@ucoz.com","gender":"Male","ip_address":"210.67.236.97"},
-{"id":2,"first_name":"Pia","last_name":"Jessope","email":"pjessope1@indiegogo.com","gender":"Female","ip_address":"96.41.227.129"},
-{"id":3,"first_name":"Hedi","last_name":"Faltin","email":"hfaltin2@nymag.com","gender":"Female","ip_address":"123.123.89.144"},
-{"id":4,"first_name":"Chrotoem","last_name":"Doone","email":"cdoone3@twitter.com","gender":"Male","ip_address":"169.60.6.9"},
-{"id":5,"first_name":"Rickard","last_name":"Maylor","email":"rmaylor4@uol.com.br","gender":"Male","ip_address":"134.93.170.226"}]
+[{"id":1,"first_name":"Konrad","last_name":"Coulter","email":"kcoulter0@ucoz.com","gender":"Male"},
+{"id":2,"first_name":"Pia","last_name":"Jessope","email":"pjessope1@indiegogo.com","gender":"Female"}]
